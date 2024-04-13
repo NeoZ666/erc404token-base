@@ -61,3 +61,9 @@ This project demonstrates usage of ERC404 and DN404 token, which are a combinati
   ```
 
   - Ignore all warnings.
+ 
+  ### Finally, run the project locally with Network of choice :
+
+  ```shell
+  npm start
+  ```
