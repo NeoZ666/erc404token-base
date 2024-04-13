@@ -24,7 +24,7 @@ module.exports = {
       accounts: privateKey(),
     },
     sepolia: {
-      url: "https://sepolia.infura.io/v3/558d4274c7d14050a32b0a4dab8e3a7a",
+      url: "https://sepolia.infura.io/v3/<your_infura_key>",
       accounts: privateKey(),
     }
   },
