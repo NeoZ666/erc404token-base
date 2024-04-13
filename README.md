@@ -60,4 +60,4 @@ This project demonstrates usage of ERC404 and DN404 token, which are a combinati
   npm install --force
   ```
 
-- Ignore all warnings.
+  - Ignore all warnings.
