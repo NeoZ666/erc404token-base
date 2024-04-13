@@ -16,7 +16,7 @@ function ConnectWallet({ children }) {
   const [account, setAccount] = useState(null);
   const [marketplaceContract, setMarketplaceContract] = useState(null);
 
-  const marketplaceAddress = "0x0D56bb36C214E0399E3D83c8594D78b9262D7D3D";
+  const marketplaceAddress = "CONTRACTADDRESS";
   const nftContractAddress = "0x900F541335a459a2a1686C89531AfD8F47C5a887";
 
   useEffect(() => {
