@@ -52,7 +52,7 @@ This project demonstrates usage of ERC404 and DN404 token, which are a combinati
     const nftContractAddress = "YOUR_NFTCONTRACTADDRESS_HERE";
   ```
 
-- Copy the .json files of deployed contracts from `.\contracts\Interface\IDN404.json` and `.\contracts\lib` to `.\frontend\src\` 
+- Copy the .json contractABIs of deployed contracts from `.\contracts\Interface\IDN404.json` and `.\contracts\lib` to `.\frontend\src\` 
 
 - Now navigate to `.\frontend\` in terminal and run the following command to install frontend dependencies:
   
